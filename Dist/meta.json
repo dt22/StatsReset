@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.SubtractStats",
+  "AssemblyName": "StatsReset.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Dtony"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Stats Reset"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Allows for soldier stats to be reset for a refund"
+    }
+  ],
+  "Dependencies": []
+}
